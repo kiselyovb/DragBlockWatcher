@@ -109,6 +109,7 @@
   <ItemGroup>
     <ClCompile Include="InjectorLogic.cpp" />
     <ClCompile Include="WMIWatcher.cpp" />
+    <ClInclude Include="CommonConstants.h" />
     <ClInclude Include="InjectorLogic.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="WMIWatcher.h" />

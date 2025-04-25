@@ -107,6 +107,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\CommonConstants.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
